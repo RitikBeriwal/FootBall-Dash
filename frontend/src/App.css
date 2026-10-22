@@ -1,0 +1,31 @@
+.Mui-selected {
+  background-color: #2ab0ef1d !important;
+}
+
+.topbar {
+  display: flex;
+  padding: 10px;
+  background: rgba(1, 1, 75);
+  color: #ffff;
+  gap: 10px;
+  align-items: center;
+  margin-bottom:20px;
+}
+
+
+
+.formbox{
+  width:100%;
+  display:flex;
+  flex-wrap:wrap;
+  just-content:space-evenly;
+  box-shadow: rgba(100,100,111,0.2) 0px 7px 39px 0px;
+  
+}
+
+
+.formarea{
+  width:33%;
+  padding:15px;
+
+}
